@@ -1,1 +1,1 @@
-Nothing done yet. This is just the template and data they give us.
+Aight, I've finished up the familiarization part and have also answered the questions for the familiarization part.
