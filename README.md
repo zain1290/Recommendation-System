@@ -2,4 +2,4 @@ Aight, I've finished up the familiarization part and have also answered the ques
 Min-Hash weblab solution complete.
 NMF weblab solution complete.
 
-#NMF - done all 5 parts with a little explanations (will do more in the future). There is a big problem with overfitting that I am not sure if we need to fix or not so I will wait for the lab to ask.
+# NMF - done all 5 parts with a little explanations (now way more) explanation. After careful thinking I don't think we overfit and even if we do we explain it so overall I think the model is fine. I will still ask in the lab though. NMF 99% done 😛
